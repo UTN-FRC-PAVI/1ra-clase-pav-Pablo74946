@@ -1,0 +1,10 @@
+C:\Users\pabli\Desktop\Primer practico PAV1\PrimerPráctico\PrimerPráctico\bin\Debug\PrimerPráctico.exe.config
+C:\Users\pabli\Desktop\Primer practico PAV1\PrimerPráctico\PrimerPráctico\bin\Debug\PrimerPráctico.exe
+C:\Users\pabli\Desktop\Primer practico PAV1\PrimerPráctico\PrimerPráctico\bin\Debug\PrimerPráctico.pdb
+C:\Users\pabli\Desktop\Primer practico PAV1\PrimerPráctico\PrimerPráctico\obj\Debug\PrimerPráctico.csprojAssemblyReference.cache
+C:\Users\pabli\Desktop\Primer practico PAV1\PrimerPráctico\PrimerPráctico\obj\Debug\PrimerPráctico.Form1.resources
+C:\Users\pabli\Desktop\Primer practico PAV1\PrimerPráctico\PrimerPráctico\obj\Debug\PrimerPráctico.Properties.Resources.resources
+C:\Users\pabli\Desktop\Primer practico PAV1\PrimerPráctico\PrimerPráctico\obj\Debug\PrimerPráctico.csproj.GenerateResource.cache
+C:\Users\pabli\Desktop\Primer practico PAV1\PrimerPráctico\PrimerPráctico\obj\Debug\PrimerPráctico.csproj.CoreCompileInputs.cache
+C:\Users\pabli\Desktop\Primer practico PAV1\PrimerPráctico\PrimerPráctico\obj\Debug\PrimerPráctico.exe
+C:\Users\pabli\Desktop\Primer practico PAV1\PrimerPráctico\PrimerPráctico\obj\Debug\PrimerPráctico.pdb
